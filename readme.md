@@ -26,8 +26,7 @@ XCTAssertEqualObjects([transformer reverseTransformedValue:string], @"abcdef");
 ```
 
 This library doesn't contain `TransformerAgency` and `TransformerAgent`.
-
-These class example wrapper classes for `BlockValueTransformer`.
+These classes are example wrapper classes for `BlockValueTransformer`.
 
 This library only contain `BlockValueTransformer` which is NSValueTransformer subclass.
 
