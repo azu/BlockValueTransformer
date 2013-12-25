@@ -3,8 +3,10 @@
 //  BlockValueTransformer
 //
 //  Created by azu on 2013/12/25.
-//  Original: Mantle Copyright (c) 2012 - 2013, GitHub, Inc.
 //
+//  Original
+//  Created by Justin Spahr-Summers on 2012-09-11.
+//  Copyright (c) 2012 GitHub. All rights reserved.
 
 #import <Foundation/Foundation.h>
 
