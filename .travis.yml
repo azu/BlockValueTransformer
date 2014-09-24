@@ -2,4 +2,4 @@ language: objective-c
 before_install:
   - gem install xcpretty
 script:
-  - xcodebuild -project BlockValueTransformer.xcodeproj -scheme BlockValueTransformerTests test | xcpretty -c
+  - xcodebuild -project BlockValueTransformer.xcodeproj -scheme BlockValueTransformerTests  -destination 'platform=iOS Simulator,name=iPhone Retina (4-inch)' test | xcpretty -c
