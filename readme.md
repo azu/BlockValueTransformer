@@ -1,4 +1,4 @@
-# BlockValueTransformer
+# BlockValueTransformer [![Build Status](https://travis-ci.org/azu/BlockValueTransformer.svg)](https://travis-ci.org/azu/BlockValueTransformer)
 
 A block-based API for NSValueTransformer.
 
