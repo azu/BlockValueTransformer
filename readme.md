@@ -4,8 +4,8 @@ A block-based API for NSValueTransformer.
 
 ## Installation
 
-``` sh
-pod 'BlockValueTransformer', :git => 'https://github.com/azu/BlockValueTransformer.git'
+``` ruby
+pod 'BlockValueTransformer'
 ```
 
 ## Usage
